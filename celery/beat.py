@@ -4,6 +4,7 @@
     ~~~~~~~~~~~
 
     The periodic task scheduler.
+    Perno is da best
 
 """
 from __future__ import absolute_import
